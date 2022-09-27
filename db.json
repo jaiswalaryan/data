@@ -2,24 +2,15 @@
 "posts": [
 {
 "id": 1,
-"title": "iPhone 9",
-"description": "An apple mobile which is nothing like apple",
-"price": 549,
-"discountPercentage": 12.96,
-"rating": 4.69,
-"thumbnail": "https://dummyjson.com/image/i/products/1/thumbnail.jpg",
+"title": "Post 1"
 },
 {
-"id": 15,
-"title": "Eau De Perfume Spray",
-"description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
-"price": 30,
-"discountPercentage": 10.99,
-"rating": 4.7,
-"stock": 105,
-"brand": "Lord - Al-Rehab",
-"category": "fragrances",
-"thumbnail": "https://dummyjson.com/image/i/products/15/thumbnail.jpg",
+"id": 2,
+"title": "Post 2"
+},
+{
+"id": 3,
+"title": "Post 3"
 }
 ]
 }
