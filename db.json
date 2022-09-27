@@ -1,6 +1,5 @@
 {
 "posts": [
-[
 {
 "id": 1,
 "title": "iPhone 9",
@@ -181,7 +180,5 @@
 "category": "fragrances",
 "thumbnail": "https://dummyjson.com/image/i/products/15/thumbnail.jpg",
 }
-]
-
 ]
 }
