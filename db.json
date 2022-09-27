@@ -1,12 +1,14 @@
-[{
-"id": 30,
-"title": "Key Holder",
-"description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
-"price": 30,
-"discountPercentage": 2.92,
-"rating": 4.92,
-"stock": 54,
-"brand": "Golden",
-"category": "home-decoration",
-"thumbnail": "https://dummyjson.com/image/i/products/30/thumbnail.jpg",
-}]
+[
+{
+"id": 1,
+"title": "Post 1"
+},
+{
+"id": 2,
+"title": "Post 2"
+},
+{
+"id": 3,
+"title": "Post 3"
+}
+]
